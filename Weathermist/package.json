@@ -1,0 +1,10 @@
+{
+    "name": "basic-socket",
+    "version": "0.0.1",
+    "description": "Comunicação entre o arduino e uma página HTML, utilizando o NODEJS como se fosse uma ponte que atravessa as informações pelo serial port",
+    "dependencies": {
+        "socket.io": "^2.0.4",
+        "serialport": "^9.0.1"
+    }
+
+}
